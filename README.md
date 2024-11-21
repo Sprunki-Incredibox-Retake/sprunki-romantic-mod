@@ -8,7 +8,9 @@ Ready to begin your dark musical journey? Choose your preferred platform:
 
 🎵 [Play on Sprunki Original](https://sprunkipy.click/original.html)
 
-🎹 [Play on Sprunki Original](https://sprunkipy.click/romantic.html)
+🎹 [Play on Sprunki Romantic](https://sprunkipy.click/romantic.html)
+
+![Sprunki Romantic](https://sprunkipy.click/sprunki/romantic.png)
 
 **Sprunki Romantic Mod** is a reimagined and enhanced version of the popular mobile game Sprunki. This mod is designed for those who enjoy fun and romantic twists within their gameplay experience. With added features, improved aesthetics, and unique mechanics, this mod sets itself apart by blending classic gameplay elements with a new romantic theme. Here's an overview of what makes the **Sprunki Romantic** a standout choice for gamers seeking an engaging experience.
 
@@ -32,12 +34,6 @@ The **Sprunki Romantic Mod** introduces several exclusive features not found in 
 - **Ad-Free Experience:** Unlike many free-to-play games, this mod provides an uninterrupted gaming session with no ads. This ensures a more seamless and enjoyable experience.
 - **Special Romantic Challenges:** Players can engage in unique challenges that are specifically themed around love and romance, such as matching items to complete heart-shaped puzzles or collecting roses to unlock bonus content.
 - **Customizable Characters:** Users have the ability to customize their characters’ appearances, choosing from a range of romantic outfits and accessories. This adds a layer of personalization that helps players feel more connected to their in-game persona.
-
-## Simple and Safe Installation
-
-Downloading and installing the **Sprunki Romantic** is straightforward. Users simply need to follow the standard process of downloading APK files, enabling “Unknown Sources” in their device settings, and installing the app. The mod is optimized for a wide range of Android devices, ensuring smooth performance and compatibility.
-
-While downloading APKs from external sources, it’s essential for users to exercise caution and only use trusted sites to prevent potential security issues. Ensuring your device's security software is up-to-date is also recommended for added protection.
 
 ## Final Thoughts
 
